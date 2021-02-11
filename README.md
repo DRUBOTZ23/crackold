@@ -10,6 +10,5 @@ pip2 install bs4
 pip2 install requests
 Install git
 git clone https://github.com/Dru-230/crackold
-
 cd crackold
 python2 Old.py
